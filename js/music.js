@@ -25,7 +25,7 @@ const playlistOverlay = document.getElementById('playlist');
 const songTitleEl = document.getElementById('current-title');
 const artistNameEl = document.getElementById('current-artist');
 
-const GOOGLE_SHEET_API = 'https://script.google.com/macros/s/AKfycbyl8Vx5ZWhhJJlXILIy0wJMpyboPTZ8vj5BncpR6SC5sgUnD_LzhpWjpAQ-Nn0yNLeeOA/exec';
+const GOOGLE_SHEET_API = 'https://script.google.com/macros/s/AKfycbzjIMqR3Rk5w9iNE3Mdiou45c4fwxiXQqEdb5OVwztqgJm_xITISrzOrLQZu40csXp3Vg/exec';
 
 let listenData = {};
 let isUpdatingListen = false;
